@@ -10,11 +10,13 @@ PORT=3000
 ```
 ## Running
 
-Install node packages using `npm install`.
+1. Install node packages using `npm install`.
 
-To run the app in dev mode use `npm start`. The local url will be `http://localhost:PORT`
+2. Run mongo client locally.
 
-To run production use `npm run start:production`
+3. To run the app in dev mode use `npm start`. The local url will be `http://localhost:PORT`
+
+4. To run production use `npm run start:production`
 
 ## Folder structure
 
