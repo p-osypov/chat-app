@@ -11,9 +11,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@gitlab.dataart.com:dae/njs/posypov-fr_07.git"
+    "url": "https://github.com/p-osypov/chat-app"
   },
-  "author": "pavlo.osypov@dataart.com",
+  "author": "osypovpavel@gmail.com",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",
