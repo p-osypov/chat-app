@@ -1,5 +1,4 @@
-# Node.js training
-#### Author: Pavlo Osypov
+# Web chat app
 
 ## Required env vars
 
